@@ -1,0 +1,192 @@
+{
+    "holes": {
+        "314dd1fb-e5cc-40e3-86e7-46bc5948940a": {
+            "diameter": 300000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    625000,
+                    625000
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        },
+        "52cb32ee-2bba-4d0d-957f-9cb7a48925df": {
+            "diameter": 300000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -625000,
+                    625000
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        },
+        "75daae68-ce5d-4b9e-9592-9c4233e80785": {
+            "diameter": 300000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    625000,
+                    -625000
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        },
+        "a372317c-cc78-4979-9d26-526f51084bc6": {
+            "diameter": 300000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        },
+        "a8f4002b-7e75-4690-8a89-c9be66fbcd76": {
+            "diameter": 300000,
+            "length": 500000,
+            "parameter_class": "",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -625000,
+                    -625000
+                ]
+            },
+            "plated": true,
+            "shape": "round"
+        }
+    },
+    "name": "EP QFN  STUSB",
+    "padstack_type": "top",
+    "parameter_program": "",
+    "parameter_set": {},
+    "parameters_required": [],
+    "polygons": {},
+    "shapes": {
+        "59cdca58-aef9-4f6a-9378-db98fd23a067": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1050000,
+                1050000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -625000,
+                    625000
+                ]
+            }
+        },
+        "649dd0b7-1e7e-4e3d-b3c6-ce59cebc4e64": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1050000,
+                1050000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    625000,
+                    625000
+                ]
+            }
+        },
+        "82140062-166b-437e-9a5d-34789c5b3bf2": {
+            "form": "rectangle",
+            "layer": 0,
+            "parameter_class": "",
+            "params": [
+                2700000,
+                2700000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "85421991-cc18-4a59-ba5c-368effa2804d": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1050000,
+                1050000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    -625000,
+                    -625000
+                ]
+            }
+        },
+        "f0cbec34-d9a5-4111-b670-02db58850dd9": {
+            "form": "rectangle",
+            "layer": 10,
+            "parameter_class": "",
+            "params": [
+                2800000,
+                2800000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    0,
+                    0
+                ]
+            }
+        },
+        "f39e2c0b-c52b-4cd7-b5c0-201a764122cc": {
+            "form": "rectangle",
+            "layer": 30,
+            "parameter_class": "",
+            "params": [
+                1050000,
+                1050000
+            ],
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    625000,
+                    -625000
+                ]
+            }
+        }
+    },
+    "type": "padstack",
+    "uuid": "fd54654a-2de2-4a22-964f-8b5e4ba8824a",
+    "well_known_name": ""
+}

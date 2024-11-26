@@ -1,0 +1,56 @@
+{
+    "MPN": [
+        false,
+        "SM03B-NSHSS-TB"
+    ],
+    "datasheet": [
+        false,
+        "https://www.jst-mfg.com/product/pdf/eng/eNSH.pdf"
+    ],
+    "description": [
+        false,
+        "1.0 mm pitch secure lock type connector"
+    ],
+    "entity": "edf5332c-357d-4f4d-93da-dd8532f18c4b",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JST"
+    ],
+    "model": "80a975a1-2bc3-4267-859d-765499c659c6",
+    "package": "b4d8da99-d95b-46da-9b41-5ed37a584449",
+    "pad_map": {
+        "12e72d82-4f09-4b5a-a471-d22c0a480c48": {
+            "gate": "4ea9d7f7-3204-4ed3-8325-0f718d2cb12a",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        },
+        "3c39ccfb-eda4-4cd0-b832-7ea7c3d6b18c": {
+            "gate": "4ea9d7f7-3204-4ed3-8325-0f718d2cb12a",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "827c32bb-7a95-44cb-bdb0-c116b21d3647": {
+            "gate": "4ea9d7f7-3204-4ed3-8325-0f718d2cb12a",
+            "pin": "6e4c6134-93b5-49b1-95dd-830ea0cd1475"
+        },
+        "ac9413d5-101f-4b6d-9ca3-b61677ff715b": {
+            "gate": "4ea9d7f7-3204-4ed3-8325-0f718d2cb12a",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "cbe47d6f-7606-4dc9-9925-c8f171639b3f": {
+            "gate": "4ea9d7f7-3204-4ed3-8325-0f718d2cb12a",
+            "pin": "6e4c6134-93b5-49b1-95dd-830ea0cd1475"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "smb"
+    ],
+    "type": "part",
+    "uuid": "c9d4368d-8634-44e9-85b2-8d6dd4709bb8",
+    "value": [
+        false,
+        ""
+    ]
+}

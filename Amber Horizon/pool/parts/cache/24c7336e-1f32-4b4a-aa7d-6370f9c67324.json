@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RMCF0402FT470K"
+    ],
+    "base": "e6d1fe6f-03d0-40a0-975c-1575139ad1bb",
+    "datasheet": [
+        true,
+        "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+    ],
+    "description": [
+        true,
+        "Thick Film Chip Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Stackpole"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "0.063",
+        "table": "resistors",
+        "tolerance": "1",
+        "value": "470000"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "24c7336e-1f32-4b4a-aa7d-6370f9c67324",
+    "value": [
+        false,
+        "470 kΩ"
+    ]
+}

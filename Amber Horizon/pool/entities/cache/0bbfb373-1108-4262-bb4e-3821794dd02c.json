@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "3f391619-f0cf-44b9-8754-7c7378894d43": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "096903dd-0229-427b-b71e-a28a2431f24b"
+        }
+    },
+    "manufacturer": "ST",
+    "name": "STUSB4500",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "power",
+        "usb"
+    ],
+    "type": "entity",
+    "uuid": "0bbfb373-1108-4262-bb4e-3821794dd02c"
+}

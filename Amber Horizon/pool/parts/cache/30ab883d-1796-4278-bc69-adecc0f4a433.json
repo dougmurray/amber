@@ -1,0 +1,66 @@
+{
+    "MPN": [
+        false,
+        "TC2030-CTX-NL"
+    ],
+    "datasheet": [
+        false,
+        "https://www.tag-connect.com/wp-content/uploads/bsk-pdf-manager/2019/12/TC2030-IDC-NL-Datasheet-Rev-B.pdf"
+    ],
+    "description": [
+        false,
+        "6-Pin “No Legs” TC2030 Plug-of-Nails; use with TC2030-CTX-NL"
+    ],
+    "entity": "c5d24e90-b910-4f75-a22d-9f7602759158",
+    "flags": {
+        "base_part": "clear",
+        "exclude_bom": "set",
+        "exclude_pnp": "set"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Tag Connect"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "46ddd856-a340-499f-beb0-85e8fb086c13",
+    "pad_map": {
+        "21458f22-a211-4eeb-86a7-934aefe126b1": {
+            "gate": "2fe841c7-ee0a-436d-9e85-123d9161b833",
+            "pin": "0a96c5ae-c01d-4aef-879f-45115581c87c"
+        },
+        "359d2fc7-1072-41fe-9fa9-b1bc1877ca14": {
+            "gate": "2fe841c7-ee0a-436d-9e85-123d9161b833",
+            "pin": "134fc5dd-c024-40d4-a817-c10d7cb7a365"
+        },
+        "7fade2d5-e8a0-4943-b61c-249412660518": {
+            "gate": "2fe841c7-ee0a-436d-9e85-123d9161b833",
+            "pin": "cc18a7e1-1520-4ae3-964b-d525e8718c67"
+        },
+        "95ac4159-28a1-4118-947b-1b21f5261117": {
+            "gate": "2fe841c7-ee0a-436d-9e85-123d9161b833",
+            "pin": "436f37a5-5ece-4480-8bc5-1b2e360d0735"
+        },
+        "b4554c51-dec3-4634-b793-850451739439": {
+            "gate": "2fe841c7-ee0a-436d-9e85-123d9161b833",
+            "pin": "d69ba4af-d896-443a-aa4b-7ac046c44065"
+        },
+        "b770a5c6-732c-479d-b1ed-c77b7052792a": {
+            "gate": "2fe841c7-ee0a-436d-9e85-123d9161b833",
+            "pin": "683f6eee-4608-4d90-bff1-307df95990db"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "debug"
+    ],
+    "type": "part",
+    "uuid": "30ab883d-1796-4278-bc69-adecc0f4a433",
+    "value": [
+        false,
+        "TC2030"
+    ],
+    "version": 1
+}

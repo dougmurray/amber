@@ -1,0 +1,34 @@
+{
+    "MPN": [
+        false,
+        "SLP3-150-100-R"
+    ],
+    "datasheet": [
+        false,
+        "https://www.bivar.com/parts_content/Datasheets/SLP3-150-XXX-X.pdf"
+    ],
+    "description": [
+        false,
+        "Lightpipe Right Angle"
+    ],
+    "entity": "e738fcf2-bf36-46b2-8288-82f43aabca8a",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Bivar"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "0eed4d42-11b9-487c-ade0-c69488a72a6a",
+    "pad_map": {},
+    "parametric": {},
+    "tags": [
+        "light-pipe"
+    ],
+    "type": "part",
+    "uuid": "5d0ea48a-88e8-4485-a0c3-39665ffb6e23",
+    "value": [
+        false,
+        ""
+    ]
+}

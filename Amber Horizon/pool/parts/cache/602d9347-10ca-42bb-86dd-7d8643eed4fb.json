@@ -1,0 +1,49 @@
+{
+    "MPN": [
+        false,
+        "DSC1001DI5-024.5760"
+    ],
+    "datasheet": [
+        false,
+        "https://rocelec.widen.net/view/pdf/4jp9qpy8qv/MCHP-S-A0003587227-1.pdf?t.download=true&u=5oefqw"
+    ],
+    "description": [
+        false,
+        "1.8V-3.3V Low-Power Precision CMOS Oscillators"
+    ],
+    "entity": "cc5a76b5-3aa5-46c7-9304-aae645ea3e11",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "c00ff069-d10d-42c8-9c73-97426b7ae6a2",
+    "package": "45c6554c-59ec-47f1-825e-7e9930a9d3c3",
+    "pad_map": {
+        "3ca9c455-08b0-474e-a025-3dc9ca9c0e30": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "b481ccc7-46dc-4746-8387-dfdeaf819707"
+        },
+        "49c6672f-f7b7-4726-bf72-a0ab970b3855": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "4af91d9c-b058-4f76-a063-de1f20273ac8"
+        },
+        "59af5fe9-cd59-48b3-921f-ec1cf5ad4dd4": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "025e3810-290c-4f20-96ef-7e5445e4273b"
+        },
+        "5ee273fe-91bd-4271-9e56-67bddaea1569": {
+            "gate": "42bff908-0dea-423c-9dab-e7d999becaa3",
+            "pin": "37fe7855-2e8b-47e4-bf64-6bc0b3c3e619"
+        }
+    },
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "602d9347-10ca-42bb-86dd-7d8643eed4fb",
+    "value": [
+        false,
+        "24.576 MHz"
+    ]
+}

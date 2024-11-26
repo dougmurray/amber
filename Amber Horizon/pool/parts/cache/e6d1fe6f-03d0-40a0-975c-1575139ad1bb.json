@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "RMCF0402"
+    ],
+    "base": "44fe0594-19d5-403e-9ae8-7c4c59c3668f",
+    "datasheet": [
+        false,
+        "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+    ],
+    "description": [
+        false,
+        "Thick Film Chip Resistor"
+    ],
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Stackpole"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e6d1fe6f-03d0-40a0-975c-1575139ad1bb",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

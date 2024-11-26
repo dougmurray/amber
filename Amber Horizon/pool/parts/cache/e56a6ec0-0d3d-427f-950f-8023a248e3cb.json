@@ -1,0 +1,36 @@
+{
+    "MPN": [
+        false,
+        "C1608X7R1H224K080AE"
+    ],
+    "base": "d61359b3-783c-4c2f-bbc8-9e73267b094b",
+    "datasheet": [
+        true,
+        "https://product.tdk.com/system/files/dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_commercial_general_en.pdf"
+    ],
+    "description": [
+        true,
+        "Multilayer ceramic chip capacitor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "TDK"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "10",
+        "type": "X7R",
+        "value": "2.2e-07",
+        "wvdc": "50"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "e56a6ec0-0d3d-427f-950f-8023a248e3cb",
+    "value": [
+        false,
+        "220 nF"
+    ]
+}

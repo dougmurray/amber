@@ -1,0 +1,20 @@
+{
+    "gates": {
+        "ecf553ee-7d0c-4990-925d-9f23c4c95bf5": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "ec4ee5c3-a48d-42d2-9466-da03f680c0e6"
+        }
+    },
+    "manufacturer": "Avago",
+    "name": "LED-RGB",
+    "prefix": "D",
+    "tags": [
+        "led",
+        "opto",
+        "rgb"
+    ],
+    "type": "entity",
+    "uuid": "d69751fd-1dbe-415a-8329-4597418628dd"
+}

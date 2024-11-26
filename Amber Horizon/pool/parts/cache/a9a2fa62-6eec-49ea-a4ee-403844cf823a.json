@@ -1,0 +1,74 @@
+{
+    "MPN": [
+        false,
+        "SM07B-NSHSS-TB"
+    ],
+    "datasheet": [
+        false,
+        "https://www.jst.com/wp-content/uploads/2021/01/eNSH-new.pdf"
+    ],
+    "description": [
+        false,
+        "1.0 mm pitch secure lock type connector"
+    ],
+    "entity": "c25d65cd-ea24-4a0f-a550-e30bad61ed91",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "JST"
+    ],
+    "model": "492fb0de-46e8-435e-bdf3-36092fc3c0b6",
+    "orderable_MPNs": {
+        "ca03554e-9275-443d-bc92-a34647968db9": "SM07B-NSHSS-TB(LF)(SN)"
+    },
+    "package": "b270d1be-cafa-4832-ae2a-69fafec9528d",
+    "pad_map": {
+        "5d23464a-ddaf-404c-98c0-39a7797bd079": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "6b20e99d-0871-4042-850e-7c4b37658353"
+        },
+        "6f4f78d3-00d2-4598-a042-a7636bfd6bbe": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "4b3e1234-17b7-41dc-af26-90574ec82303"
+        },
+        "827c32bb-7a95-44cb-bdb0-c116b21d3647": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "6e4c6134-93b5-49b1-95dd-830ea0cd1475"
+        },
+        "a6b7c574-9079-4144-a2da-7b6738489f95": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "478b0e7a-ec1b-4c8d-b5d4-57430085d406"
+        },
+        "ac9413d5-101f-4b6d-9ca3-b61677ff715b": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "423d0d6c-4330-417f-a6f0-267741d4c770"
+        },
+        "bbc7b461-2463-40e4-9c3d-bca99af3eddc": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "4603e89d-61f8-4d33-8721-a7c0bde919a1"
+        },
+        "cbe47d6f-7606-4dc9-9925-c8f171639b3f": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "6e4c6134-93b5-49b1-95dd-830ea0cd1475"
+        },
+        "ec43de2a-8232-438a-99cf-db14faad71c7": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "aab503ca-26da-43ff-a268-cf0db0698910"
+        },
+        "fd2db7fa-a843-43dc-98da-75adf050657a": {
+            "gate": "1219f633-2578-4abd-a369-6686f5a57124",
+            "pin": "9c153b03-fb7b-4f99-a5ed-ca45d3ae512e"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "a9a2fa62-6eec-49ea-a4ee-403844cf823a",
+    "value": [
+        false,
+        ""
+    ]
+}

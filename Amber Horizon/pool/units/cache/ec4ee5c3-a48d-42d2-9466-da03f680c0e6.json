@@ -1,0 +1,32 @@
+{
+    "manufacturer": "Avago",
+    "name": "LED-RGB",
+    "pins": {
+        "0b963090-1d1e-46d8-a878-7e604ff66b00": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "A",
+            "swap_group": 0
+        },
+        "3ca2aa40-d045-4bc1-bfa2-69ffcb7d18b9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "KB",
+            "swap_group": 0
+        },
+        "4448c046-0ae7-4898-b7aa-2909b0e10332": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "KR",
+            "swap_group": 0
+        },
+        "9ffef45e-7147-4a07-aa1b-090ea9d63e83": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "KG",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "ec4ee5c3-a48d-42d2-9466-da03f680c0e6"
+}

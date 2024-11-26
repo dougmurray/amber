@@ -1,0 +1,52 @@
+{
+    "manufacturer": "Tag Connect",
+    "name": "TC2030-CTX",
+    "pins": {
+        "0a96c5ae-c01d-4aef-879f-45115581c87c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "134fc5dd-c024-40d4-a817-c10d7cb7a365": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCC",
+            "swap_group": 0
+        },
+        "436f37a5-5ece-4480-8bc5-1b2e360d0735": {
+            "direction": "input",
+            "names": [
+                "TCK"
+            ],
+            "primary_name": "SWCLK",
+            "swap_group": 0
+        },
+        "683f6eee-4608-4d90-bff1-307df95990db": {
+            "direction": "power_input",
+            "names": [
+                "TDO"
+            ],
+            "primary_name": "SWO",
+            "swap_group": 0
+        },
+        "cc18a7e1-1520-4ae3-964b-d525e8718c67": {
+            "direction": "bidirectional",
+            "names": [
+                "TMS"
+            ],
+            "primary_name": "SWDIO",
+            "swap_group": 0
+        },
+        "d69ba4af-d896-443a-aa4b-7ac046c44065": {
+            "direction": "input",
+            "names": [
+                "TDI"
+            ],
+            "primary_name": "NRESET",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3bb7e603-71fa-4b16-b9bd-9e8a5e9bb4ae"
+}

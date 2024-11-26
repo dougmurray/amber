@@ -1,0 +1,52 @@
+{
+    "MPN": [
+        false,
+        "HSMF-C114"
+    ],
+    "datasheet": [
+        false,
+        "https://docs.broadcom.com/doc/AV02-2451EN"
+    ],
+    "description": [
+        false,
+        "LED-RGB"
+    ],
+    "entity": "d69751fd-1dbe-415a-8329-4597418628dd",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Avago"
+    ],
+    "model": "bb3da64d-20c6-408b-bff1-a83e492a3f7f",
+    "package": "5b6ccd06-f48b-47e1-8d89-8c2cd8bef045",
+    "pad_map": {
+        "1a32a4c6-0adc-4947-ab27-c14c3380ecc6": {
+            "gate": "ecf553ee-7d0c-4990-925d-9f23c4c95bf5",
+            "pin": "0b963090-1d1e-46d8-a878-7e604ff66b00"
+        },
+        "568dd256-08e5-4dd6-8088-c82c20614ea0": {
+            "gate": "ecf553ee-7d0c-4990-925d-9f23c4c95bf5",
+            "pin": "9ffef45e-7147-4a07-aa1b-090ea9d63e83"
+        },
+        "630219ce-71ff-4c91-9ffb-d0f1b835379e": {
+            "gate": "ecf553ee-7d0c-4990-925d-9f23c4c95bf5",
+            "pin": "3ca2aa40-d045-4bc1-bfa2-69ffcb7d18b9"
+        },
+        "dec661f3-a37e-4510-b296-a64510e72bd3": {
+            "gate": "ecf553ee-7d0c-4990-925d-9f23c4c95bf5",
+            "pin": "4448c046-0ae7-4898-b7aa-2909b0e10332"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "led",
+        "rgb"
+    ],
+    "type": "part",
+    "uuid": "d820a63e-f92b-45c2-9b4e-9ace023ee1f8",
+    "value": [
+        false,
+        ""
+    ]
+}

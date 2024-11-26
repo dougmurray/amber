@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "2fe841c7-ee0a-436d-9e85-123d9161b833": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3bb7e603-71fa-4b16-b9bd-9e8a5e9bb4ae"
+        }
+    },
+    "manufacturer": "Tag Connect",
+    "name": "TC2030-CTX",
+    "prefix": "J",
+    "tags": [
+        "conn"
+    ],
+    "type": "entity",
+    "uuid": "c5d24e90-b910-4f75-a22d-9f7602759158"
+}

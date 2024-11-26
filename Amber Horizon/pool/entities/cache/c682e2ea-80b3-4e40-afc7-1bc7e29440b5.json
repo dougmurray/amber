@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "08facd8d-9fba-4897-8b71-c8d1c8faac70": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "492e9626-5b0d-4544-af60-aa9d7d1373e8"
+        }
+    },
+    "manufacturer": "",
+    "name": "Potentiometer",
+    "prefix": "R",
+    "tags": [
+        "resistor"
+    ],
+    "type": "entity",
+    "uuid": "c682e2ea-80b3-4e40-afc7-1bc7e29440b5"
+}

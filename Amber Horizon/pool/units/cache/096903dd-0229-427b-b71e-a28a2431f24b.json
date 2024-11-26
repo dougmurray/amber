@@ -1,0 +1,146 @@
+{
+    "manufacturer": "ST",
+    "name": "STUSB4500",
+    "pins": {
+        "1251d5dd-c044-4942-878a-bf931a5c66f3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VBUS_EN_SNK",
+            "swap_group": 0
+        },
+        "15fd5ecc-a486-405a-81d8-24a2a8addd3f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "16c3bcc4-0064-4c5b-b6d1-33561fb9e0b6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "226d712b-db2f-4743-919d-232002711b29": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "POWER_OK3",
+            "swap_group": 0
+        },
+        "2d151e47-cf1f-4495-b2c6-c0705d372b8a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        },
+        "35d1703f-2fa1-4905-87e9-ac6cc7faedbc": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "3db54858-01e1-4839-bbe6-fb5b733396ad": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "41fe5ec4-2338-4c3f-a17b-d2073535164a": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "46b43d3d-0ad8-4662-a3c1-34406850b8f6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "POWER_OK2",
+            "swap_group": 0
+        },
+        "53bdbe36-a702-462a-854f-c805685fd6a9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VREG_2V7",
+            "swap_group": 0
+        },
+        "577c48ba-65ff-4025-8e36-2357e5336cd7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADDR1",
+            "swap_group": 0
+        },
+        "5b530af4-2418-4490-ad30-8b3f6d5b08e7": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "66eebdf2-c730-486d-ac47-f7afba98d4cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A_B_SIDE",
+            "swap_group": 0
+        },
+        "71c2bb34-bfd8-44cf-ad14-949e743277bd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "GPIO",
+            "swap_group": 0
+        },
+        "7842c08a-180f-4990-9ed2-30cbe838eb1d": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ADDR0",
+            "swap_group": 0
+        },
+        "7f2740c1-9296-457e-8621-eeae3ae577bf": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "VUS_VS_DISCH",
+            "swap_group": 0
+        },
+        "8db529b6-7442-4218-a755-df5a8f2909c5": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CCS2PD",
+            "swap_group": 0
+        },
+        "90e11432-9414-43de-8560-b69013b5cb4a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DISCH",
+            "swap_group": 0
+        },
+        "97009283-1f91-4955-9f02-39831f75fd69": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1DB",
+            "swap_group": 0
+        },
+        "984a5dd2-6dc9-4109-959f-cf844f4ecd94": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "VREG_1V2",
+            "swap_group": 0
+        },
+        "b6f33aca-576e-46ac-891b-90057083c7f6": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "ATTACH",
+            "swap_group": 0
+        },
+        "e9de699f-fb7d-4457-a78f-44110caf3b9c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSYS",
+            "swap_group": 0
+        },
+        "f178e935-9f25-4f57-b8f4-7faf848e2909": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "096903dd-0229-427b-b71e-a28a2431f24b"
+}

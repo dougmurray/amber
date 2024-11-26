@@ -1,0 +1,18 @@
+{
+    "gates": {
+        "1219f633-2578-4abd-a369-6686f5a57124": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3b0bbbf3-8a4d-445d-98f4-628cc4c68acc"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 7 pin connector with mounting pad",
+    "prefix": "J",
+    "tags": [
+        "connector"
+    ],
+    "type": "entity",
+    "uuid": "c25d65cd-ea24-4a0f-a550-e30bad61ed91"
+}
