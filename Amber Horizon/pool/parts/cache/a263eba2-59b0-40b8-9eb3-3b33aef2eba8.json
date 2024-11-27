@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "EEV-FK2A221M"
+    ],
+    "datasheet": [
+        false,
+        "https://industrial.panasonic.com/cdbs/www-data/pdf/RDE0000/ABA0000C1181.pdf"
+    ],
+    "description": [
+        false,
+        "FK Series Aluminum Electrolytic Capacitor"
+    ],
+    "entity": "b0c2b8f8-aecf-4873-9458-c06eee2f7a00",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Panasonic"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d9f74856-ae77-4719-909b-74759212f45d",
+    "pad_map": {
+        "4a67009d-593d-4a30-b062-52259350c2a0": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "bb8460b5-34e6-41b0-9a9f-10eed3a3d8d6"
+        },
+        "4fd6bfcd-f54b-43b7-9f55-e2a170a961d5": {
+            "gate": "23766b63-6ffc-4831-baee-ba1635a735b3",
+            "pin": "1e7cd34f-86db-4b34-9e0b-c276756301ab"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "Electrolytic",
+        "value": "0.00022",
+        "wvdc": "100"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "a263eba2-59b0-40b8-9eb3-3b33aef2eba8",
+    "value": [
+        false,
+        "220 µF"
+    ]
+}

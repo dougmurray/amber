@@ -1,0 +1,44 @@
+{
+    "MPN": [
+        false,
+        "5227161-7"
+    ],
+    "datasheet": [
+        false,
+        "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=srchrtrv&DocNm=5227161&DocType=Customer+Drawing&DocLang=English"
+    ],
+    "description": [
+        false,
+        "BNC connector"
+    ],
+    "entity": "1d1d771d-3f05-4639-ba89-48f54cee58c6",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TE Connectivity"
+    ],
+    "model": "29455af2-dcba-44bd-97da-07eaa0b94105",
+    "package": "41e28e3f-67fe-4cd9-930e-b2a47b7754e8",
+    "pad_map": {
+        "1f3e1125-9e06-4d80-a33d-7d20ea513d72": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "a01e0362-c2b2-4565-9588-bc920e201988"
+        },
+        "d2b80788-24c3-40e6-b3a0-5373b61835b9": {
+            "gate": "7fbb1da2-7777-4835-add3-612b96b30e91",
+            "pin": "207305c6-2559-44f9-b056-ec6cc1fec55c"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "coaxial",
+        "connector"
+    ],
+    "type": "part",
+    "uuid": "8ab6afae-32e8-4cca-b3cf-c93604cb0033",
+    "value": [
+        false,
+        ""
+    ]
+}

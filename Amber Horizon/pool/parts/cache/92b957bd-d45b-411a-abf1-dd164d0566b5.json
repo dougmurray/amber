@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "CGA9N3X7S2A106M230KE"
+    ],
+    "datasheet": [
+        false,
+        "https://product.tdk.com/en/system/files?file=dam/doc/product/capacitor/ceramic/mlcc/catalog/mlcc_automotive_soft_en.pdf"
+    ],
+    "description": [
+        false,
+        "CGA Series Multilayer Ceramic Chip Capacitor"
+    ],
+    "entity": "ca83a84f-6183-4088-84b6-5d79b2a119d4",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "TDK"
+    ],
+    "model": "5a3ad152-a01a-4237-add0-9984d85cb50e",
+    "package": "100bb635-3451-488d-9615-0e1018ca2be2",
+    "pad_map": {
+        "1e64ba0e-6362-47d3-9b84-65696d1085bf": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "29995253-b4b1-4c7c-a049-b6db2713ca7c"
+        },
+        "8d640b44-853c-499b-bd07-1b21c1273273": {
+            "gate": "9bfcf213-2a7e-444e-8312-ce57209fc9ec",
+            "pin": "852f1fe6-06dc-4661-8a14-61a9a6ebb26a"
+        }
+    },
+    "parametric": {
+        "table": "capacitors",
+        "tolerance": "20",
+        "type": "X7S",
+        "value": "1e-05",
+        "wvdc": "100"
+    },
+    "tags": [
+        "capacitor",
+        "passive"
+    ],
+    "type": "part",
+    "uuid": "92b957bd-d45b-411a-abf1-dd164d0566b5",
+    "value": [
+        false,
+        "10 µF"
+    ]
+}

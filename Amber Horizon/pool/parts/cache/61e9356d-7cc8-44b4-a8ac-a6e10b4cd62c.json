@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "RMCF1206ZT0R00"
+    ],
+    "base": "90d79ded-0184-423d-8bce-fda1d942d8cd",
+    "datasheet": [
+        true,
+        "https://www.seielect.com/Catalog/SEI-RMCF_RMCP.pdf"
+    ],
+    "description": [
+        true,
+        "RMCF / RMCP Series General Purpose Thick Film Standard Power and High-Power Chip Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Stackpole"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {
+        "pmax": "10",
+        "table": "resistors",
+        "tolerance": "0",
+        "value": "0"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "61e9356d-7cc8-44b4-a8ac-a6e10b4cd62c",
+    "value": [
+        false,
+        "0 Ω"
+    ]
+}

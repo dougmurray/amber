@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "RMCF2512JTR360"
+    ],
+    "datasheet": [
+        false,
+        "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+    ],
+    "description": [
+        false,
+        "RMCF Series Generail Purpose Thick Film High-Power Chip Resistor"
+    ],
+    "entity": "3ce770af-7be0-4f72-b2af-2c8010911aaf",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Stackpole"
+    ],
+    "model": "d005ec60-38cf-4347-9a33-89689eed852a",
+    "package": "1215cba0-aa0e-458a-b195-12b74e14abf5",
+    "pad_map": {
+        "34b51ec1-7624-45dd-894d-2d061f7b66cb": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "7a661a2e-167a-4831-9f9e-38a35f924e50": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "0.36"
+    },
+    "tags": [
+        "generic",
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "f937640c-c2f5-4b2c-bb1e-9e367d6e73cb",
+    "value": [
+        false,
+        "360 mΩ"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "MPN": [
+        false,
+        "RMCF2512JT200R"
+    ],
+    "base": "f937640c-c2f5-4b2c-bb1e-9e367d6e73cb",
+    "datasheet": [
+        true,
+        "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+    ],
+    "description": [
+        true,
+        "RMCF Series Generail Purpose Thick Film High-Power Chip Resistor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Stackpole"
+    ],
+    "model": "d005ec60-38cf-4347-9a33-89689eed852a",
+    "parametric": {
+        "pmax": "1",
+        "table": "resistors",
+        "tolerance": "5",
+        "value": "200"
+    },
+    "tags": [
+        "passive",
+        "resistor"
+    ],
+    "type": "part",
+    "uuid": "0ffcfae0-ac90-4ba2-ad0a-76013fc6591c",
+    "value": [
+        false,
+        "200 Ω"
+    ]
+}
