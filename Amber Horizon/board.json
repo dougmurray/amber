@@ -19,35 +19,34 @@
         }
     },
     "connection_lines": {},
-    "decals": {
-        "3007daa7-4714-45d3-b762-af246186abce": {
-            "decal": "a04c8dea-41d6-45b9-8455-5f8703077f86",
-            "flip": false,
-            "placement": {
-                "angle": 0,
-                "mirror": false,
-                "shift": [
-                    107250000,
-                    24125000
-                ]
-            },
-            "scale": 0.9
+    "dimensions": {
+        "00e21666-ecd0-4a14-bb8d-e0f3341fd679": {
+            "label_distance": 10500000,
+            "label_size": 1500000,
+            "mode": "horizontal",
+            "p0": [
+                0,
+                28500000
+            ],
+            "p1": [
+                66000000,
+                28500000
+            ]
         },
-        "ddee77fd-40cf-4f36-9cdb-a441c152ce85": {
-            "decal": "a04c8dea-41d6-45b9-8455-5f8703077f86",
-            "flip": true,
-            "placement": {
-                "angle": 0,
-                "mirror": true,
-                "shift": [
-                    72875000,
-                    -23200000
-                ]
-            },
-            "scale": 3.0
+        "ff45f9a3-d33a-4ffe-b3ce-c20bc1ee6cff": {
+            "label_distance": -8499999,
+            "label_size": 1500000,
+            "mode": "vertical",
+            "p0": [
+                3499999,
+                32000000
+            ],
+            "p1": [
+                3499999,
+                -32000000
+            ]
         }
     },
-    "dimensions": {},
     "fab_output_settings": {
         "drill_mode": "individual",
         "drill_npth": " Drills Unplated.txt",
@@ -131,40 +130,10 @@
     },
     "holes": {},
     "junctions": {
-        "00215c86-79fe-4160-9298-5cdca1e6fd11": {
-            "position": [
-                5000000,
-                -8000000
-            ]
-        },
-        "01f858b5-1930-4c06-9f1f-23fc244ed7b3": {
-            "position": [
-                80000000,
-                30000000
-            ]
-        },
         "02cb9c13-4faf-4ae7-b9de-5b87488aefb9": {
             "position": [
                 89750000,
                 23250000
-            ]
-        },
-        "04086019-c674-4b22-ad39-1c02e3a2c757": {
-            "position": [
-                10657857,
-                26842143
-            ]
-        },
-        "07a7625e-8fa7-4d82-8a7d-855ff78e59df": {
-            "position": [
-                15007521,
-                -12500000
-            ]
-        },
-        "0bb47188-97d7-4aa9-a37e-d3c04dde433f": {
-            "position": [
-                13149980,
-                21165734
             ]
         },
         "0cac653e-44cb-447f-8b28-599830dd63a0": {
@@ -191,46 +160,16 @@
                 -9250000
             ]
         },
-        "1da68101-5321-4579-9533-cae1ca45da27": {
-            "position": [
-                11500000,
-                23805720
-            ]
-        },
         "1eaf9cef-dd0e-45f8-bfe2-8aae8e765509": {
             "position": [
                 72000000,
                 -7750000
             ]
         },
-        "217df149-f30b-4318-b9e1-9f2db1a8751d": {
-            "position": [
-                12749960,
-                15999960
-            ]
-        },
-        "2335018d-56c2-4fa3-aa29-8f318bc4ace1": {
-            "position": [
-                7750000,
-                -14250000
-            ]
-        },
-        "2897db89-17bb-4915-99c9-82d2adca4254": {
-            "position": [
-                9507521,
-                -18000000
-            ]
-        },
         "2e3fca0d-3d13-4615-af29-e2d1eba0d3b2": {
             "position": [
                 127000000,
                 0
-            ]
-        },
-        "30cfec82-e1b9-4556-bf56-b22c75db827c": {
-            "position": [
-                11000000,
-                26750000
             ]
         },
         "3888b4ce-6bb6-4c26-9beb-17f920ac9b65": {
@@ -263,22 +202,10 @@
                 -27000000
             ]
         },
-        "4b10b7ec-e729-45d2-b6b5-18c938e0bbfc": {
-            "position": [
-                80000000,
-                -30000000
-            ]
-        },
         "519b9f82-affa-465c-a5d7-f5a10d1a90c7": {
             "position": [
                 81000000,
                 23000000
-            ]
-        },
-        "58bb25f1-ab3b-4eff-8329-9419425d887e": {
-            "position": [
-                11000000,
-                23810718
             ]
         },
         "58d612cb-34ce-4052-a239-578c6fd166c8": {
@@ -293,22 +220,10 @@
                 30000000
             ]
         },
-        "5d3c79ad-db4c-4c9f-98c8-b300829c09f5": {
-            "position": [
-                13850020,
-                21455700
-            ]
-        },
         "5dda1983-6d08-4221-a67f-7d57db609949": {
             "position": [
                 30000000,
                 -26750000
-            ]
-        },
-        "5e895d43-3e8c-42ad-a570-3271db8ca244": {
-            "position": [
-                110000000,
-                -30000000
             ]
         },
         "5efabbf1-4c71-45e4-b7b2-d31dc72178ea": {
@@ -317,40 +232,16 @@
                 -30000000
             ]
         },
-        "6161b2f8-ddc8-4a37-9e9d-b20553e22ff5": {
-            "position": [
-                11000000,
-                -8000000
-            ]
-        },
         "62683559-ee88-4172-a0b5-598f46a645ed": {
             "position": [
                 6000000,
                 -25500000
             ]
         },
-        "63c04e2d-a285-478b-b3f3-9df2bc11326c": {
-            "position": [
-                10657857,
-                23657857
-            ]
-        },
         "7db09a7c-3e35-4b9d-9f7c-a44f11879040": {
             "position": [
                 63000000,
                 23000000
-            ]
-        },
-        "7df7d417-88af-485b-b160-2a40802f61fe": {
-            "position": [
-                70000000,
-                30000000
-            ]
-        },
-        "863966af-d226-4fdf-a29e-b5a7586d7d45": {
-            "position": [
-                70000000,
-                -30000000
             ]
         },
         "8b8b6f11-e781-44c1-b6a9-8fbb2e0ce8da": {
@@ -377,46 +268,16 @@
                 20000000
             ]
         },
-        "95582961-7041-4ee4-ab76-6d36c49affc5": {
-            "position": [
-                90000000,
-                30000000
-            ]
-        },
-        "990d59d0-ca41-44a4-a6b1-113fd3926ed2": {
-            "position": [
-                9750000,
-                24000000
-            ]
-        },
         "9cd80b1e-26b5-4f18-92e3-61caf10f3738": {
             "position": [
                 60000000,
                 30000000
             ]
         },
-        "9e3238a2-48f1-4174-8134-6b73688e3f1e": {
-            "position": [
-                100000000,
-                30000000
-            ]
-        },
-        "9fc42125-eb79-4758-92a0-3b429edc65c3": {
-            "position": [
-                13500000,
-                21310717
-            ]
-        },
         "a2911343-e94b-4cfc-bb03-0caf1ed63c0a": {
             "position": [
                 60000000,
                 -30000000
-            ]
-        },
-        "a853d603-cb22-43fd-b4dc-b7351310e172": {
-            "position": [
-                7750000,
-                -18500000
             ]
         },
         "ac0d4e71-c6ad-4a6c-83a0-c415a19fb973": {
@@ -451,7 +312,7 @@
         },
         "bc1759bb-b2f5-4779-b073-de60c7fc2f22": {
             "position": [
-                125500000,
+                64500000,
                 18000000
             ]
         },
@@ -473,21 +334,9 @@
                 -30000000
             ]
         },
-        "c50750a7-965e-4d7a-aecc-7432ec980be5": {
-            "position": [
-                90000000,
-                -30000000
-            ]
-        },
-        "c648a95d-f13c-453d-b0d9-01b59089bc49": {
-            "position": [
-                100000000,
-                -30000000
-            ]
-        },
         "cb01a5e7-db87-4fea-9059-163cc3e1064c": {
             "position": [
-                125500000,
+                64500000,
                 -18000000
             ]
         },
@@ -503,12 +352,6 @@
                 0
             ]
         },
-        "e785b111-a237-4a75-b483-aa181626aed3": {
-            "position": [
-                110000000,
-                30000000
-            ]
-        },
         "ea081e6d-43ab-4a4c-8c0b-cb3bd4846343": {
             "position": [
                 89750000,
@@ -519,12 +362,6 @@
             "position": [
                 22000000,
                 26000000
-            ]
-        },
-        "f3bcab17-6fa2-4f2d-a4b3-7a1b31c40396": {
-            "position": [
-                12749960,
-                21000040
             ]
         },
         "f6175401-6efe-40c0-a2f5-ab2ed7330fea": {
@@ -610,8 +447,24 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    32000000,
-                    21000000
+                    32500000,
+                    18750000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "0fd09731-98e6-41d5-89e0-4f13a957a9bd": {
+            "component": "35647767-aa88-4952-a3d0-d1d2ca5eaf79",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    47250000,
+                    -15500000
                 ]
             },
             "smashed": false,
@@ -627,7 +480,7 @@
                 "mirror": true,
                 "shift": [
                     17000000,
-                    250000
+                    0
                 ]
             },
             "smashed": false,
@@ -643,7 +496,55 @@
                 "mirror": false,
                 "shift": [
                     6000000,
-                    12000000
+                    17000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "2a8c3ea3-49dd-4b5e-9d76-13960cd4e97a": {
+            "component": "2f987034-1069-4b4d-8ab2-f2b11e588a86",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    29000000,
+                    -23000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "3402cfa3-4be8-4a15-b944-6e9afc4179fb": {
+            "component": "349c2867-0f58-411e-a0ab-9e659b0a4c3d",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    15666662,
+                    83332
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "360261ee-adbb-409b-a2f0-c2470fb8e8b7": {
+            "component": "38b8ef77-0f7d-48e6-a89f-3c35fb7e6be0",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    14000000,
+                    -2500000
                 ]
             },
             "smashed": false,
@@ -659,7 +560,39 @@
                 "mirror": false,
                 "shift": [
                     48000000,
-                    25000000
+                    24500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "381ab3a0-6dd3-4d76-bb7d-19eaa80ae356": {
+            "component": "b04c4971-34b2-46af-8522-5cb69e529066",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    46000000,
+                    -18000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "3bfdeff0-58d3-485d-8ece-703a7a268fcf": {
+            "component": "f2772358-b140-4098-b7a7-cb9707ac81e6",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    44500000,
+                    -15500000
                 ]
             },
             "smashed": false,
@@ -685,14 +618,14 @@
         },
         "44ac9cee-4bd9-413e-94b4-a0710401e09c": {
             "component": "821bd4cb-1882-405b-9736-4cbaa68be016",
-            "fixed": true,
+            "fixed": false,
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    123500000,
+                    62500000,
                     28500000
                 ]
             },
@@ -709,7 +642,55 @@
                 "mirror": true,
                 "shift": [
                     48000000,
-                    250000
+                    0
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "60647177-7f89-480c-8ccb-757842d43bf6": {
+            "component": "b7825c6f-11ff-4490-952c-6b627d924858",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    48000000,
+                    -21250000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "64a61689-4a4a-47e9-8046-e2821e25bd75": {
+            "component": "893c31fd-e3a7-4da6-8f21-63061fd5a1ee",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    16500000,
+                    4750000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "66a426f1-eda2-4c9d-a6b8-27c25555cdd6": {
+            "component": "5cb8e2c6-a034-4c98-aadb-917dfe8b1404",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    38000000,
+                    -18000000
                 ]
             },
             "smashed": false,
@@ -731,6 +712,86 @@
             "smashed": false,
             "texts": []
         },
+        "6bfacd31-2c47-4ac3-b600-53829fe7f48c": {
+            "component": "7676b936-83e8-427b-b7d4-6535d1a07319",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    38000000,
+                    -23000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "7b344bad-b041-43a9-b8c8-19a68f224196": {
+            "component": "ffa58426-0b58-44bd-a201-7943be51edaa",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    5000000,
+                    5000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "85563a7a-1da1-442f-a3e0-f84edb0ec767": {
+            "component": "e2474f0b-25fe-4d2e-9362-c7d5c9b79403",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    20416662,
+                    3083332
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "8979b563-ee7c-41a4-ac27-ab797877f5d0": {
+            "component": "6886bc93-4dcc-4cf5-9bb4-ee93bb2b1330",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    11666662,
+                    -416668
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "8acc48d9-5330-4d7d-a1a6-715c0fef1294": {
+            "component": "4d375bc2-af52-46fc-a152-f26ee1a2ed78",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    51500000,
+                    -14750000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "8d077ff2-ca4c-4a2a-b0ec-5ae41956f69d": {
             "component": "73ddab8a-23da-4832-bf2e-f1a14e75ff63",
             "fixed": false,
@@ -741,7 +802,39 @@
                 "mirror": false,
                 "shift": [
                     17000000,
-                    25000000
+                    24500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "8f52da8a-b609-4f58-a4f4-edbac7a61307": {
+            "component": "abb6b579-0181-43ae-90cd-a7ebb65719c6",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    17250000,
+                    2500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "9141efe1-e4bf-4e41-b0ff-fb9961b62f5b": {
+            "component": "9758a15b-5c0f-47bc-9ca4-ccf85122aba4",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    43750000,
+                    -9500000
                 ]
             },
             "smashed": false,
@@ -749,7 +842,7 @@
         },
         "9f64ddc8-1126-4ba4-a161-6331827fcf52": {
             "component": "5146eff2-7de2-44c0-96cd-cd1016e0ab80",
-            "fixed": true,
+            "fixed": false,
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
@@ -763,9 +856,25 @@
             "smashed": true,
             "texts": []
         },
+        "a1d25486-7840-461d-8840-b7b17b667d18": {
+            "component": "3eda57c7-bed0-438a-ac7c-4c738f59beab",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    20416662,
+                    1583332
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "a480047a-06c8-4ecd-80a4-deae175eda23": {
             "component": "c8e4885b-af3e-4606-b0ae-f13fd97d3378",
-            "fixed": true,
+            "fixed": false,
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
@@ -779,20 +888,164 @@
             "smashed": true,
             "texts": []
         },
-        "da450682-99ec-47cc-8753-7ff8a06dfc4d": {
-            "component": "4e236c10-324c-4ab8-9570-4b8024de6425",
-            "fixed": true,
+        "aee5aa6c-996f-40f5-8b27-b68f1ed6a5ad": {
+            "component": "9bd1f8ae-4135-478c-b1ef-6f92ede840d1",
+            "fixed": false,
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    123500000,
+                    50750000,
+                    -17000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "bcb4e117-9dc1-4628-b9d0-5c6e5fa54b57": {
+            "component": "c38dca1e-2908-4420-adea-a0e33dbbe14c",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    14750000,
+                    -4750000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "c13c23a8-bfec-408d-9d3f-2be479a0fd13": {
+            "component": "6cdd3c16-4443-4149-99ea-371724b607b2",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    20416662,
+                    83332
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "c278aecc-7829-4426-9937-939b7e232cf2": {
+            "component": "2bb4d75d-dc5a-40d3-9664-60da5f679846",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    44250000,
+                    -20500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "c5093bf0-d8d8-4203-999e-b397083e5a92": {
+            "component": "0b96b99c-50f1-433d-81e3-600dd38c6e87",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    50500000,
+                    -8250000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "d7bfd35c-4aab-4999-9baa-cd0a2aae8d05": {
+            "component": "612151c0-233b-4c1c-a7e2-3cd8d534dc40",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    29000000,
+                    -18000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "da450682-99ec-47cc-8753-7ff8a06dfc4d": {
+            "component": "4e236c10-324c-4ab8-9570-4b8024de6425",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    62500000,
                     -28500000
                 ]
             },
             "smashed": true,
+            "texts": []
+        },
+        "de0fb76f-d3ef-4ee5-bbd7-1353818906ac": {
+            "component": "ce42a415-0a5f-4a0e-a49a-1feda7f84dbe",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    20416662,
+                    -1416668
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "f8195f5c-4208-47a4-9e18-741b1929c95f": {
+            "component": "20040217-7b33-42a0-b04f-9c0691eba48b",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    22750000,
+                    -26250000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "fd33e300-d4de-47a9-a6ec-5ce873643507": {
+            "component": "f2a15816-5f95-4016-8dda-89ee7ac95395",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 32768,
+                "mirror": false,
+                "shift": [
+                    5000000,
+                    -5000000
+                ]
+            },
+            "smashed": false,
             "texts": []
         }
     },
@@ -1237,7 +1490,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         28000000
                     ],
                     "type": "line"
@@ -1249,7 +1502,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -1261,7 +1514,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -1273,7 +1526,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -1285,7 +1538,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -1297,7 +1550,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -28000000
                     ],
                     "type": "line"
@@ -1436,12 +1689,12 @@
                 },
                 {
                     "arc_center": [
-                        123500000,
+                        62500000,
                         -28500000
                     ],
                     "arc_reverse": false,
                     "position": [
-                        123500000,
+                        62500000,
                         -32000000
                     ],
                     "type": "arc"
@@ -1453,19 +1706,19 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         -28500000
                     ],
                     "type": "line"
                 },
                 {
                     "arc_center": [
-                        123500000,
+                        62500000,
                         28500000
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         28500000
                     ],
                     "type": "arc"
@@ -1477,7 +1730,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        123500000,
+                        62500000,
                         32000000
                     ],
                     "type": "line"
@@ -1573,7 +1826,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         32000000
                     ],
                     "type": "line"
@@ -1585,7 +1838,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         -32000000
                     ],
                     "type": "line"
@@ -1627,7 +1880,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         32000000
                     ],
                     "type": "line"
@@ -1639,7 +1892,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         -32000000
                     ],
                     "type": "line"
@@ -1681,7 +1934,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         28000000
                     ],
                     "type": "line"
@@ -1693,7 +1946,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -1705,7 +1958,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -1717,7 +1970,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -1729,7 +1982,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -1741,7 +1994,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -28000000
                     ],
                     "type": "line"
@@ -1783,7 +2036,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         32000000
                     ],
                     "type": "line"
@@ -1795,7 +2048,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         -32000000
                     ],
                     "type": "line"
@@ -1891,7 +2144,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         28000000
                     ],
                     "type": "line"
@@ -1903,7 +2156,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -1915,7 +2168,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -1927,7 +2180,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -1939,7 +2192,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -1951,7 +2204,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -28000000
                     ],
                     "type": "line"
@@ -1993,7 +2246,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         32000000
                     ],
                     "type": "line"
@@ -2005,7 +2258,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        127000000,
+                        66000000,
                         -32000000
                     ],
                     "type": "line"
@@ -2125,7 +2378,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         28000000
                     ],
                     "type": "line"
@@ -2137,7 +2390,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -2149,7 +2402,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         20000000
                     ],
                     "type": "line"
@@ -2161,7 +2414,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -2173,7 +2426,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -20000000
                     ],
                     "type": "line"
@@ -2185,7 +2438,7 @@
                     ],
                     "arc_reverse": false,
                     "position": [
-                        124000000,
+                        63000000,
                         -28000000
                     ],
                     "type": "line"
@@ -3080,8 +3333,8 @@
                 "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    118000000,
-                    -25750000
+                    59000000,
+                    -29750000
                 ]
             },
             "size": 3000000,
@@ -3119,185 +3372,20 @@
                 ]
             },
             "size": 1500000,
-            "text": "$project_title R$rev\n- Diodes: silkscreen marks cathode\n- Capacitors: silkscreen marks anode\n- Programming connectors (two) each have 6 exposed copper circles with no solder paste\n- Some silkscreen is too small; run as-is\n ",
+            "text": "$project_title R$rev\n- Diodes: silkscreen marks cathode\n- Capacitors: silkscreen marks anode\n- Some silkscreen is too small; run as-is\n ",
             "width": 180000
         }
     },
-    "tracks": {
-        "01969356-a2d5-4efb-a1ad-2394f752a4c2": {
-            "from": {
-                "junc": "0bb47188-97d7-4aa9-a37e-d3c04dde433f",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "63c04e2d-a285-478b-b3f3-9df2bc11326c",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
-        "07295039-f349-4e96-b779-9c942be4a342": {
-            "from": {
-                "junc": "2335018d-56c2-4fa3-aa29-8f318bc4ace1",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "a853d603-cb22-43fd-b4dc-b7351310e172",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
-        "1732b06e-1022-42de-8d07-66c3f041cc23": {
-            "from": {
-                "junc": "63c04e2d-a285-478b-b3f3-9df2bc11326c",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "04086019-c674-4b22-ad39-1c02e3a2c757",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
-        "2315da5a-33c1-4ee3-b229-e095c105f7b8": {
-            "from": {
-                "junc": "f3bcab17-6fa2-4f2d-a4b3-7a1b31c40396",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "217df149-f30b-4318-b9e1-9f2db1a8751d",
-                "pad": null
-            },
-            "width": 300000,
-            "width_from_net_class": true
-        },
-        "3d0e0392-afac-48a3-92b1-78d102a8765b": {
-            "from": {
-                "junc": "58bb25f1-ab3b-4eff-8329-9419425d887e",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "9fc42125-eb79-4758-92a0-3b429edc65c3",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
-        "7c96459a-36b1-4332-8153-378add954f96": {
-            "from": {
-                "junc": "2897db89-17bb-4915-99c9-82d2adca4254",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "07a7625e-8fa7-4d82-8a7d-855ff78e59df",
-                "pad": null
-            },
-            "width": 300000,
-            "width_from_net_class": true
-        },
-        "89255fbb-0367-4a8b-870e-911187590290": {
-            "from": {
-                "junc": "58bb25f1-ab3b-4eff-8329-9419425d887e",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "30cfec82-e1b9-4556-bf56-b22c75db827c",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
-        "a9a959c7-ed78-4683-8a1a-eb290b6803fd": {
-            "from": {
-                "junc": "5d3c79ad-db4c-4c9f-98c8-b300829c09f5",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "1da68101-5321-4579-9533-cae1ca45da27",
-                "pad": null
-            },
-            "width": 200000,
-            "width_from_net_class": true
-        },
-        "c04dd481-f1c7-4159-84a8-6436bf9e3935": {
-            "from": {
-                "junc": "f3bcab17-6fa2-4f2d-a4b3-7a1b31c40396",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "990d59d0-ca41-44a4-a6b1-113fd3926ed2",
-                "pad": null
-            },
-            "width": 300000,
-            "width_from_net_class": true
-        },
-        "d7177723-6fc4-4eba-8d23-582b2ec1ce18": {
-            "from": {
-                "junc": "00215c86-79fe-4160-9298-5cdca1e6fd11",
-                "pad": null
-            },
-            "layer": -100,
-            "locked": false,
-            "to": {
-                "junc": "6161b2f8-ddc8-4a37-9e9d-b20553e22ff5",
-                "pad": null
-            },
-            "width": 300000,
-            "width_from_net_class": true
-        }
-    },
+    "tracks": {},
     "type": "board",
     "uuid": "4ac6c5af-7334-4637-81b7-697ec6d92f65",
     "version": 21,
     "vias": {
-        "00035577-9d01-43cd-98f9-d04f1331912e": {
-            "from_rules": true,
-            "junction": "9e3238a2-48f1-4174-8134-6b73688e3f1e",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
         "0473568c-7b09-4330-91fe-6f60ff552738": {
             "from_rules": true,
             "junction": "176f8238-59b5-40a3-93aa-dff8bdae2317",
             "locked": false,
             "net_set": "77f8cc69-7668-4ee6-b802-b3840a123688",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "06360348-6f81-48b2-95b8-7cbaf2b79f8c": {
-            "from_rules": true,
-            "junction": "5e895d43-3e8c-42ad-a570-3271db8ca244",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
             "parameter_set": {
                 "hole_diameter": 200000,
@@ -3344,18 +3432,6 @@
         "188d7730-da4b-4e4c-8d56-3fed3cb427bf": {
             "from_rules": true,
             "junction": "94d1c624-bb31-4e2a-8027-1af71fa593d1",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "1e6e8045-0a28-468e-82ee-8aa721335cbc": {
-            "from_rules": true,
-            "junction": "e785b111-a237-4a75-b483-aa181626aed3",
             "locked": false,
             "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
@@ -3413,35 +3489,11 @@
             },
             "source": "rules"
         },
-        "488b0a4b-f3a8-432c-9bca-8220e8a2dd1c": {
-            "from_rules": true,
-            "junction": "95582961-7041-4ee4-ab76-6d36c49affc5",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
         "50e4db3d-0feb-4cb2-90c7-5adda92e3f14": {
             "from_rules": true,
             "junction": "8c92c149-b431-43c7-8bf1-4dc42dec8bc1",
             "locked": false,
             "net_set": "77f8cc69-7668-4ee6-b802-b3840a123688",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "63d3ba3c-ce5b-4562-8e0f-2faf44651463": {
-            "from_rules": true,
-            "junction": "7df7d417-88af-485b-b160-2a40802f61fe",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
             "parameter_set": {
                 "hole_diameter": 200000,
@@ -3488,18 +3540,6 @@
         "7811d550-b022-47a3-b2d5-bb3912a2ada7": {
             "from_rules": true,
             "junction": "c3c9f215-774d-4f52-b263-21a81660c4e9",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "7caab3be-4c78-4915-9f1a-a9d8262c976b": {
-            "from_rules": true,
-            "junction": "c648a95d-f13c-453d-b0d9-01b59089bc49",
             "locked": false,
             "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
@@ -3581,18 +3621,6 @@
             },
             "source": "rules"
         },
-        "aef05d93-eeb8-40df-b6a5-cbd8798dab19": {
-            "from_rules": true,
-            "junction": "01f858b5-1930-4c06-9f1f-23fc244ed7b3",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
         "bb5040d9-a0a3-4b51-9e57-7f76c4a8590b": {
             "from_rules": true,
             "junction": "5efabbf1-4c71-45e4-b7b2-d31dc72178ea",
@@ -3608,30 +3636,6 @@
         "ca22e97a-c850-4d50-8567-52133374385c": {
             "from_rules": true,
             "junction": "fd315374-5e58-42e5-be77-a3e865bf16fe",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "ce3e86cf-859d-40fa-8772-b92cc502a319": {
-            "from_rules": true,
-            "junction": "c50750a7-965e-4d7a-aecc-7432ec980be5",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "d0ced275-7185-4583-987b-730fff5e1d49": {
-            "from_rules": true,
-            "junction": "4b10b7ec-e729-45d2-b6b5-18c938e0bbfc",
             "locked": false,
             "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
@@ -3658,18 +3662,6 @@
             "junction": "62683559-ee88-4172-a0b5-598f46a645ed",
             "locked": false,
             "net_set": "77f8cc69-7668-4ee6-b802-b3840a123688",
-            "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
-            "parameter_set": {
-                "hole_diameter": 200000,
-                "via_diameter": 450000
-            },
-            "source": "rules"
-        },
-        "e5f46f23-0f5a-42c4-9db3-ee68422dd285": {
-            "from_rules": true,
-            "junction": "863966af-d226-4fdf-a29e-b5a7586d7d45",
-            "locked": false,
-            "net_set": "1d1e412a-d59f-4913-a454-0449d66a6a4e",
             "padstack": "8b6dee4b-af88-4c0f-b38b-c5364649e65e",
             "parameter_set": {
                 "hole_diameter": 200000,
