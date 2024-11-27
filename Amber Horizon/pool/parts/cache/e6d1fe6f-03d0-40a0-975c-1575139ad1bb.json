@@ -29,8 +29,8 @@
     "type": "part",
     "uuid": "e6d1fe6f-03d0-40a0-975c-1575139ad1bb",
     "value": [
-        false,
-        ""
+        true,
+        "RMCF0402"
     ],
     "version": 1
 }
