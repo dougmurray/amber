@@ -3423,7 +3423,25 @@
                     "texts": []
                 }
             },
-            "texts": {},
+            "texts": {
+                "6d05d29e-6e0a-4e3c-b56d-b9efe66e0f08": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            148750000,
+                            53750000
+                        ]
+                    },
+                    "size": 2000000,
+                    "text": "Consider lower offset voltage opamp.",
+                    "width": 100000
+                }
+            },
             "title_block_values": {}
         },
         "652b44b9-65de-49c2-94ce-506cc678b260": {
