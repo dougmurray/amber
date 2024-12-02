@@ -649,20 +649,6 @@
                         "port": null
                     }
                 },
-                "01e2cff7-4478-44ed-a6b5-ff0b887dd97c": {
-                    "from": {
-                        "bus_ripper": null,
-                        "junc": "43360c92-aa3f-4546-b0f1-714e024b8426",
-                        "pin": null,
-                        "port": null
-                    },
-                    "to": {
-                        "bus_ripper": null,
-                        "junc": null,
-                        "pin": "20b65702-a5b5-4aff-b8c1-f71310081f18/a01e0362-c2b2-4565-9588-bc920e201988",
-                        "port": null
-                    }
-                },
                 "0290cf30-34fb-4c7c-8b4b-cdf47fcb0f35": {
                     "from": {
                         "bus_ripper": null,
@@ -1206,6 +1192,20 @@
                         "bus_ripper": null,
                         "junc": "3f04b39f-2bf9-4847-b282-d075a933cc41",
                         "pin": null,
+                        "port": null
+                    }
+                },
+                "39959957-c795-4ede-91d3-971ea90c0c1d": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "20b65702-a5b5-4aff-b8c1-f71310081f18/a01e0362-c2b2-4565-9588-bc920e201988",
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "adc45881-e707-4df0-937a-fca7ab0f5ae6/dda0ec99-5d70-4fbe-a8db-897542e7554e",
                         "port": null
                     }
                 },
@@ -1864,6 +1864,20 @@
                         "bus_ripper": null,
                         "junc": "b3541472-b30c-4d74-9e45-99d72bfcde85",
                         "pin": null,
+                        "port": null
+                    }
+                },
+                "8cad2231-054d-47f8-ad17-15ad74941f8b": {
+                    "from": {
+                        "bus_ripper": null,
+                        "junc": "43360c92-aa3f-4546-b0f1-714e024b8426",
+                        "pin": null,
+                        "port": null
+                    },
+                    "to": {
+                        "bus_ripper": null,
+                        "junc": null,
+                        "pin": "adc45881-e707-4df0-937a-fca7ab0f5ae6/6a44037c-65e2-4876-9359-42890048841d",
                         "port": null
                     }
                 },
@@ -3230,6 +3244,25 @@
                     "symbol": "d7b5cd2c-2334-4f3a-95e6-b4b173f4248a",
                     "texts": []
                 },
+                "adc45881-e707-4df0-937a-fca7ab0f5ae6": {
+                    "component": "551f6a6d-6f05-463f-b72f-fe2daa1c39ff",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            201250000,
+                            115000000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "e2cde69b-9fa7-4332-ba8f-7e5b3ee8ad73",
+                    "texts": []
+                },
                 "b21c0fcd-1939-4954-a91a-feda02ed95e5": {
                     "component": "20040217-7b33-42a0-b04f-9c0691eba48b",
                     "display_all_pads": false,
@@ -3439,6 +3472,23 @@
                     },
                     "size": 2000000,
                     "text": "Consider lower offset voltage opamp.",
+                    "width": 100000
+                },
+                "7735a6e3-ecaf-4f6d-9833-83c64e63209e": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            171250000,
+                            126250000
+                        ]
+                    },
+                    "size": 2000000,
+                    "text": "7.2 Hz Filter",
                     "width": 100000
                 }
             },

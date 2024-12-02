@@ -103,7 +103,7 @@
             },
             "50": {
                 "display_mode": "outline",
-                "visible": false
+                "visible": true
             },
             "60": {
                 "display_mode": "outline",

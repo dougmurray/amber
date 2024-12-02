@@ -447,8 +447,8 @@
                 "angle": 0,
                 "mirror": false,
                 "shift": [
-                    32500000,
-                    18750000
+                    16500000,
+                    15750000
                 ]
             },
             "smashed": false,
@@ -496,7 +496,7 @@
                 "mirror": false,
                 "shift": [
                     6000000,
-                    17000000
+                    13000000
                 ]
             },
             "smashed": false,
@@ -556,11 +556,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 16384,
+                "angle": 32768,
                 "mirror": false,
                 "shift": [
-                    48000000,
-                    24500000
+                    53000000,
+                    12500000
                 ]
             },
             "smashed": false,
@@ -798,11 +798,11 @@
             "flip": false,
             "omit_silkscreen": false,
             "placement": {
-                "angle": 16384,
+                "angle": 0,
                 "mirror": false,
                 "shift": [
-                    17000000,
-                    24500000
+                    33000000,
+                    12500000
                 ]
             },
             "smashed": false,
@@ -899,6 +899,22 @@
                 "shift": [
                     50750000,
                     -17000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "b0b9e00f-2545-4bf7-a7fd-a7d475013606": {
+            "component": "551f6a6d-6f05-463f-b72f-fe2daa1c39ff",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    11000000,
+                    13000000
                 ]
             },
             "smashed": false,
