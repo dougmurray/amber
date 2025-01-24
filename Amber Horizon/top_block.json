@@ -846,6 +846,9 @@
         "9ef4276a-8603-4838-8420-2cb9fff6cb35": {
             "name": "digital"
         },
+        "a94841ca-789b-45d3-9415-0fc46d0b127e": {
+            "name": "guard"
+        },
         "e715fb53-e6b7-4f85-9c1a-d4d0d8841d06": {
             "name": "default"
         }
@@ -927,7 +930,7 @@
             "is_port": false,
             "is_power": false,
             "name": "",
-            "net_class": "e715fb53-e6b7-4f85-9c1a-d4d0d8841d06",
+            "net_class": "a94841ca-789b-45d3-9415-0fc46d0b127e",
             "port_direction": "bidirectional",
             "power_symbol_name_visible": true,
             "power_symbol_style": "gnd"
