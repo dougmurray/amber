@@ -3490,6 +3490,40 @@
                     "size": 2000000,
                     "text": "7.2 Hz Filter",
                     "width": 100000
+                },
+                "8735216c-b96d-41da-ba0d-cede175c4066": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            45000000,
+                            67500000
+                        ]
+                    },
+                    "size": 2000000,
+                    "text": "Use with RF shield:\nRFI Shield Clip\nHarwin, Inc.\nS1711-46R",
+                    "width": 100000
+                },
+                "8d4f1897-1a9f-4714-ba71-ae82945a66c2": {
+                    "font": "simplex",
+                    "from_smash": false,
+                    "layer": 0,
+                    "origin": "center",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            45000000,
+                            83750000
+                        ]
+                    },
+                    "size": 2000000,
+                    "text": "Consider RF shield:\n20 mm x 30 mm x 5 mm\nHarwin, Inc,\nS01-30200500",
+                    "width": 100000
                 }
             },
             "title_block_values": {}
