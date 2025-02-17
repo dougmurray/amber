@@ -538,6 +538,22 @@
             "smashed": false,
             "texts": []
         },
+        "16542d3f-8e95-43b9-b58b-7acd2faa96c6": {
+            "component": "0b96b99c-50f1-433d-81e3-600dd38c6e87",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    37000000,
+                    -6250000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "1eaf4699-093c-45e1-aca5-ec12968ad8ae": {
             "component": "0399f112-2ec6-4161-89ec-2d35d256a8de",
             "fixed": false,
@@ -716,6 +732,22 @@
             "smashed": false,
             "texts": []
         },
+        "67d32420-a8de-4c55-b3a3-3ea2f4b8a1e3": {
+            "component": "73ddab8a-23da-4832-bf2e-f1a14e75ff63",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    39000000,
+                    13000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "68253840-e26b-48b8-91ac-d785ca92ea2e": {
             "component": "cce19ddf-fbec-410a-a72d-cc570ae9cf82",
             "fixed": false,
@@ -876,6 +908,22 @@
             "smashed": true,
             "texts": []
         },
+        "9fc37fd2-8dcf-4001-9fe4-430ee30674c7": {
+            "component": "7086e72f-ae72-4b99-b716-cbd04cb3c803",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 49152,
+                "mirror": false,
+                "shift": [
+                    69500000,
+                    13000000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
         "a1d25486-7840-461d-8840-b7b17b667d18": {
             "component": "3eda57c7-bed0-438a-ac7c-4c738f59beab",
             "fixed": false,
@@ -1015,6 +1063,22 @@
                 "shift": [
                     17250000,
                     -1500000
+                ]
+            },
+            "smashed": false,
+            "texts": []
+        },
+        "e057cc1e-36eb-4321-8a88-bb008f31a7a0": {
+            "component": "8963a69a-45fa-443b-b599-1f43d24b4bbc",
+            "fixed": false,
+            "flip": false,
+            "omit_silkscreen": false,
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    56500000,
+                    25000000
                 ]
             },
             "smashed": false,
