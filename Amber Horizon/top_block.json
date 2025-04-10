@@ -565,7 +565,7 @@
                     "net": "77f8cc69-7668-4ee6-b802-b3840a123688"
                 },
                 "a96a662e-2077-467f-9853-a01865f76ad6/6e4c6134-93b5-49b1-95dd-830ea0cd1475": {
-                    "net": "77f8cc69-7668-4ee6-b802-b3840a123688"
+                    "net": "1d1e412a-d59f-4913-a454-0449d66a6a4e"
                 },
                 "a96a662e-2077-467f-9853-a01865f76ad6/9c153b03-fb7b-4f99-a5ed-ca45d3ae512e": {
                     "net": "77f8cc69-7668-4ee6-b802-b3840a123688"
@@ -929,7 +929,7 @@
         "305c0896-370f-41b2-aaae-b23f7d297ef9": {
             "is_port": false,
             "is_power": false,
-            "name": "",
+            "name": "Guard",
             "net_class": "a94841ca-789b-45d3-9415-0fc46d0b127e",
             "port_direction": "bidirectional",
             "power_symbol_name_visible": true,

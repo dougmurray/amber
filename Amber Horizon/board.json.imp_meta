@@ -25,7 +25,7 @@
             "text": true
         }
     },
-    "grid_spacing": 250000,
+    "grid_spacing": 9000000,
     "layer_display": {
         "layer_opacity": 50.0,
         "layers": {
@@ -43,7 +43,7 @@
             },
             "-120": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "-130": {
                 "display_mode": "fill",
@@ -71,7 +71,7 @@
             },
             "0": {
                 "display_mode": "fill",
-                "visible": true
+                "visible": false
             },
             "10": {
                 "display_mode": "outline",
@@ -87,7 +87,7 @@
             },
             "20": {
                 "display_mode": "fill_only",
-                "visible": false
+                "visible": true
             },
             "200": {
                 "display_mode": "outline",
